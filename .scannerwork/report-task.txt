@@ -1,0 +1,7 @@
+organization=lutz
+projectKey=lutz_OpenWithAddon
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.8111
+dashboardUrl=https://sonarcloud.io/dashboard?id=lutz_OpenWithAddon
+ceTaskId=AXIsHU5lGczp6-GlkkqR
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXIsHU5lGczp6-GlkkqR
